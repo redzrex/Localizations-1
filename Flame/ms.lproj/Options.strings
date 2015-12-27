@@ -3,51 +3,51 @@
 <plist version="1.0">
 <dict>
 		<key>OPTIONS</key>
-		<string>Options</string>
+		<string>Pilihan</string>
 
 		<key>APPLY_SETTINGS</key>
-		<string>Apply Settings</string>
+		<string>Ubah Pertukaran</string>
 		<key>APPLY_FOOTER</key>
-		<string>Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.</string>
+		<string>Kebanyakkan pilihan boleh diubah secara langsung, tapi beberapa pilihan memerlukan Cydia dibuka semula untuk perubahan berlaku.</string>
 
 		<key>TIMEOUT</key>
-		<string>Timeout</string>
+		<string>Masa tamat</string>
 		<key>TIMEOUT_FOOTER</key>
-		<string>Force Cydia to only spend a specified number of seconds trying to refresh each source.</string>
+		<string>Paksa Cydia untuk mengambil masa beberapa saat untuk cuba refresh setiap sumber.</string>
 
 		<key>ENABLE_TIMEOUT</key>
-		<string>Enable Timeout</string>
+		<string>Membolehkan Masa Tamat</string>
 		<key>SECONDS</key>
-		<string>Seconds:</string>
+		<string>Saat:</string>
 
 		<key>AUTOFINISH</key>
-		<string>Auto Finish</string>
+		<string>Terus Selesai</string>
 		<key>AUTOFINISH_FOOTER</key>
-		<string>Automatically resprings, reboots, or returns to Cydia when installation is complete.</string>
+		<string>Terus resprings, reboots, atau pulang ke Cydia apabila pemasangan selesai.</string>
 
 		<key>ENABLE_AUTOFINISH</key>
-		<string>Enable Auto Finish</string>
+		<string>Membolehkan Terus Selesai</string>
 
 		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Remove Home Page Ads</string>
+		<string>Buang Ad Muka Rumah</string>
 		<key>REMOVE_HOMEPAGE_ADS_FOOTER</key>
-		<string>Remove the ads that are displayed on the home page of Cydia.</string>
+		<string>Buang ad yang dipaparkan pada muka rumah Cydia.</string>
 
 		<key>REMOVE_ADS</key>
-		<string>Remove Ads</string>
+		<string>Buang Ad</string>
 
 		<key>INSTALL_SCREEN</key>
-		<string>Install Screen</string>
+		<string>Skrin Pemasangan</string>
 
 		<key>REMOVE_BORDER</key>
-		<string>Remove Border</string>
+		<string>Buang Sempadan</string>
 		<key>BORDER_COLOR</key>
-		<string>Border Color:</string>
+		<string>Warna Sempadan:</string>
 
 		<key>BACKGROUND_COLOR</key>
-		<string>Background Color:</string>
+		<string>Warna Latar Belakang:</string>
 
 		<key>SAVE</key>
-		<string>Save</string>
+		<string>Simpan</string>
 </dict>
 </plist>
