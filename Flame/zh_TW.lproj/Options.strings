@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+		<key>OPTIONS</key>
+		<string>Options</string>
+
+		<key>APPLY_SETTINGS</key>
+		<string>Apply Settings</string>
+		<key>APPLY_FOOTER</key>
+		<string>Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.</string>
+
+		<key>TIMEOUT</key>
+		<string>Timeout</string>
+		<key>TIMEOUT_FOOTER</key>
+		<string>Force Cydia to only spend a specified number of seconds trying to refresh each source.</string>
+
+		<key>ENABLE_TIMEOUT</key>
+		<string>Enable Timeout</string>
+		<key>SECONDS</key>
+		<string>Seconds:</string>
+
+		<key>AUTOFINISH</key>
+		<string>Auto Finish</string>
+		<key>AUTOFINISH_FOOTER</key>
+		<string>Automatically resprings, reboots, or returns to Cydia when installation is complete.</string>
+
+		<key>ENABLE_AUTOFINISH</key>
+		<string>Enable Auto Finish</string>
+
+		<key>REMOVE_HOMEPAGE_ADS</key>
+		<string>Remove Home Page Ads</string>
+		<key>REMOVE_HOMEPAGE_ADS_FOOTER</key>
+		<string>Remove the ads that are displayed on the home page of Cydia.</string>
+
+		<key>REMOVE_ADS</key>
+		<string>Remove Ads</string>
+
+		<key>INSTALL_SCREEN</key>
+		<string>Install Screen</string>
+
+		<key>REMOVE_BORDER</key>
+		<string>Remove Border</string>
+		<key>BORDER_COLOR</key>
+		<string>Border Color:</string>
+
+		<key>BACKGROUND_COLOR</key>
+		<string>Background Color:</string>
+
+		<key>SAVE</key>
+		<string>Save</string>
+</dict>
+</plist>
